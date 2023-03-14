@@ -15,6 +15,6 @@ func main() {
 	}
 	fmt.Println("after reverse:", Sum)
 	for i := 1; i <= 10; i++ { // for loop
-		fmt.Println(i)
+		fmt.Print(i)
 	}
 }
