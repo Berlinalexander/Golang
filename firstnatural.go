@@ -14,7 +14,5 @@ func main() {
 		n = n / 10
 	}
 	fmt.Println("after reverse:", Sum)
-	for i := 1; i <= 10; i++ { // for loop
-		fmt.Print(i)
-	}
+
 }
